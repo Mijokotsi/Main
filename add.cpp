@@ -6,5 +6,5 @@ int main() {
     int a = 6;
     int b = 7;
 
-    cout<<a+b;
+    cout<<"Sum: "a+b;
 }
